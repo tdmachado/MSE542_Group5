@@ -1,0 +1,129 @@
+﻿t_manu,t_model,tower_material,corrosion_protection,rotor_material,rotor_max_speed,rotor_tip_speed,rated_wind_speed
+Micon,180,Steel,Hot dip-galvanized,Fiberglass reinforced polyester,31,31,14
+Vensys,1.5_74,Steel,,,,,
+GE Wind,1.5S,Steel,Coated,GFK,22,82,13
+GE Wind,1.5SLE,Steel,Painted,GFK,20.4,82,12
+Danwin,23_160,Steel,Painted,GFK,42,51,13
+Aeronautica,54-750,Steel,Painted,GFRP,25.3,72,12.5
+AAER,A-1500,Steel,Painted,GFK,,,11.8
+Nordex,AW125/3000,SteelConcrete,Painted,GFRP,11.6,80,
+Nordex,AW125/3150,,,,,,
+Clipper,C96,Steel,Painted,Fiberglass,15.5,78,12.5
+China Creative Wind Energy,CCWE3.60-116,,,,,,
+DeWind,D8.2,Steel,,,18,75,15
+EWT,DW-52-900,Steel,Painted,GFRP,26,71,10
+Alstom,ECO 86,Steel,Painted,,17.2,77,
+GE Wind,EW 1.5S,Steel,Coated,GFK,22.2,82,13
+Fuhrlander,FL1500,,,,,,12
+Gamesa,G114-2.0,SteelConcrete,Painted,GFK,16,96,10
+Gamesa,G114-2.1,Steel,Painted,GFRP,14.8,88,11.5
+Gamesa,G87,Steel,Painted,carbon fiber,19,87,13
+Gamesa,G87-2.0,,,Preimpregnated epoxy glass fiber + carbon fiber,,,
+Gamesa,G90-2.0,Steel,MultiCoated,Preimpregnated epoxy glass fiber + carbon fiber,,,
+Gamesa,G97-2.0,Steel,MultiCoated,epoxy glass fiber/carbon fiber,17.8,90,11
+GE Wind,GE 1.5-70.5,,,,,,
+GE Wind,GE 1.5-77,,,,,,
+GE Wind,GE 1.6-100,Steel,Coated,GFK,16.2,85,11
+GE Wind,GE 1.6-91,,,,,,
+GE Wind,GE 1.7-100,Steel,Painted,,,,10
+GE Wind,GE 1.7-77,,,,,,
+GE Wind,GE 2.5-116,Steel,Painted,GFRP,,,
+GE Wind,GE1.5-70.5,Steel,Coated,GFK,22.2,82,13
+GE Wind,GE1.5-77,Steel,Painted,GFK,20.4,82,12
+GE Wind,GE1.5-82.5,Steel,Painted,GFK,18.7,81,11.5
+GE Wind,GE1.5-91,,,,,,
+GE Wind,GE1.5-91.5,,,,,,
+GE Wind,GE1.6-100,Steel,Painted,GFK,16.2,85,11
+GE Wind,GE1.6-77,,,,,,
+GE Wind,GE1.6-82.5,Steel,Painted,GFRP,,,10
+GE Wind,GE1.6-87,,,,,,
+GE Wind,GE1.62-100,,,,,,
+GE Wind,GE1.62-82.5,,,,,,
+GE Wind,GE1.62-91,,,,,,
+GE Wind,GE1.62-91.5,,,,,,
+GE Wind,GE1.68-82.5,,,,,,
+GE Wind,GE1.7-100,Steel,Painted,,,,10
+GE Wind,GE1.7-103,Steel,Painted,GFRP,,,10
+GE Wind,GE1.715-103,,,,,,
+GE Wind,GE1.79-100,,,,,,
+GE Wind,GE1.85-82.5,Steel,Painted,,,,13
+GE Wind,GE1.85-87,Steel,Painted,,,,12.5
+GE Wind,GE1.85-87.5,,,,,,
+GE Wind,GE2.0-116,Steel,Painted,GFRP,,,
+GE Wind,GE2.1-116,Steel,Painted,GFRP,,,
+GE Wind,GE2.3-116,Steel,Painted,GFRP,,,
+GE Wind,GE2.4-107,,,,,,
+GE Wind,GE2.5-116,Steel,Painted,GFRP,,,
+GE Wind,GE2.5-127,Steel,Painted,GFRP,,,
+GE Wind,GE2.72-116,Steel,Painted,GFRP,,,
+GE Wind,GE2.82-127,,,,,,
+GE Wind,GE2.85-103,Steel,Painted,GRP,,,12.5
+GE Wind,GE3.6-137,Steel,Painted,,,,
+Goldwind,GW82,Steel,Painted,GFRP,17.3,75,10.3
+Goldwind,GW87,Steel ,Painted,GFRP,16.6,76,9.9
+GE Wind,Haliade 150-6,Steel,Painted,GFRP,11.5,91,
+Kenersys,K100,SteelHybrid,Painted,GFRP,14.1,74,14
+Leitner Poma,LTW-77,,,,,,
+Micon,M108,Steel,Galvanized,Fibreglass reinforced polyester,,,14
+NEG Micon,M700/225,Steel,,GFK,37.5,59,15
+NEG Micon,Micon 100,,,,,,
+REpower,MM92,Steel ,Painted,,,,
+NEG Micon,Multi-power 44,Steel,painted / hot dip galvanized,GFRP,27,62,16
+Mitsubishi,MWT102/2.4,Steel,Painted,,16.9,90,11.5
+Mitsubishi,MWT600,,,,34,80,13
+Mitsubishi,MWT62/1.0,Steel,Painted,,19.8,64,12.5
+Nordex,N117,SteelHybrid,Painted,GFRP,14.1,86,
+Nordex,N149/4.8,SteelHybrid,,fiberglass and carbon fiber reinforced plastic,12.3,96,11.5
+Nordex,N54,Steel,Coated,GFK,21.5,61,14
+Nordex,N60,SteelLattice,Coated,GFK,19.2,60,15
+Nordex,N90,SteelLattice,Painted,GFK,16.9,80,12
+NEG Micon,NM19,,,,,,
+NEG Micon,NM48,Steel,Painted,GFRP,21,53,13
+NEG Micon,NM72,Steel,Painted,GFRP,,,16
+NEG Micon,NM82,Steel,Painted,GFK,14.4,62,13
+Northern Power Systems,NPS-100,Steel,Painted,GFK,51.4,66,12
+Northern Power Systems,NW100,Steel,Painted,GFK,51.4,66,12
+PowerWind,PW56,Steel,,,28,82,12
+Suzlon,S64,Steel,Painted,GFK / Epoxy,20.6,69,12
+Suzlon,S88,Steel,Painted,GFK / Epoxy,15.5,71,14
+Siemens Gamesa Renewable Energy,SG-2.3-108,Steel,Painted,GRE,,,
+Siemens Gamesa Renewable Energy,SG-2.415-108,,,,,,
+Siemens Gamesa Renewable Energy,SG-4.5-145,Multiple,Painted,,,,
+Sinovel,SL1500,Steel,Painted,,,,11.5
+Siemens,SWT-2.3-101,Steel,Painted,GRE,16,85,12.5
+Siemens,SWT-2.3-108,Steel,Painted,GRE,16,90,11.5
+Siemens,SWT-2.3-93,Steel/hybrid,Painted,GFK,16,78,14
+Siemens,SWT-3.0-101,Steel,Painted,Fibreglass reinforced epoxy,19,100,12.5
+Siemens,SWT-3.2-113,Steel,Painted,fiberglass-reinforced epoxy,15.5,92,12.5
+Siemens Gamesa Renewable Energy,SWT-6.0-154,Cylindrical and/or tapered tubular,Painted,GRE,11,89,13
+Turbowinds,T-400-34,Steel,Painted,Wood/epoxy,33,59,14
+Turbowinds,T-600-48,Steel,Painted,GRP,23,58,12.5
+Vestas,V100-1.8,Steel,Painted,,,,12
+Vestas,V100-2.0,Steel,Painted,,,,12
+Vestas,V110-2.0,Steel,Painted,,,,11.5
+Vestas,V112-3.3,Steel,Painted,GFRP,,,13
+Vestas,V112-3.45,Steel,Painted,,,,13
+Vestas,V117-3.3,Steel,Painted,,,,13
+Vestas,V117-3.45,Steel,Painted,,,,12.5
+Vestas,V117-3.6,,,,,,
+Vestas,V120-2.0,Steel,Painted,,,,
+Vestas,V120-2.2,Steel,Painted,,,,18
+Vestas,V126-3.45,Steel,Painted,,,,12
+Vestas,V136-3.6,,,,,,
+Vestas,V136-4.2,Steel,,,,,
+Vestas,V136-4.3,,,,,,
+Vestas,V150-4.2,Steel,Painted,,,,
+Vestas,V150-4.3,,,,,,
+Vestas,V27,Steel,Painted,GRP,43,61,14
+Vestas,V39-0.5,Steel,Painted,GFK / Epoxy,30,61,15
+Vestas,V44-0.6,Steel,Painted,GFK / Epoxy,28,65,16
+Vestas,V47,Steel,Painted,GFK,28.5,70,15
+Vestas,V47-0.66,,,,,,
+Vestas,V66,Steel,Painted,GFRE,19.8,68,17
+Vestas,V66-1.65,Steel,Painted,GFK / Epoxy,19,66,15
+Vestas,V80-1.8,Steel,Painted,GFRP,16.8,70,15
+Vestas,V82-1.65,Steel,,,10.8,,13
+Vestas,V90-1.8,Steel,Painted,GFRP,14.9,70,12
+Vestas,V90-3.0,Steel,Painted,,18.4,87,15
+Bergey Energy,XL50,,,,,,
+Zond,Z50,Steel,Painted,GFK,32.3,85,11.3
